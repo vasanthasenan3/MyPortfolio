@@ -34,7 +34,7 @@ This repository contains the source code for my personal portfolio website.
 
 **Vasanthsenan R**
 
-* Visit Website: https://github.com/vasanthasenan3/Myportfolio.git
+* Visit Website: [https://github.com/vasanthasenan3/Myportfolio.git](https://vasanthasenan3.github.io/Myportfolio/)
 
 ---
 
