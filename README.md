@@ -32,7 +32,7 @@ This repository contains the source code for my personal portfolio website.
 
 ## 👨‍💻 Author
 
-**Vasanth**
+**Vasanthsenan R**
 
 * Visit Website: https://github.com/vasanthasenan3/Myportfolio.git
 
